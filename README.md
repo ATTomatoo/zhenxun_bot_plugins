@@ -17,7 +17,7 @@
 
 | 插件名称 | 简介 |
 | :---: | :---|
-|[AI](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/ai) | 青云客AI，还有重复说相同的话检测，与小真寻普普通通的对话吧 |
+|[伪人AI](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/bym_ai)|超级强力AI（引入养成系统）|
 |[B站订阅](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/bilibili_sub)|非常便利的B站订阅通知，包括直播间，个人用户动态，番剧更新等|
 |[敏感词警察](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/black_word)|对小真寻进行辱骂会遭到严厉的惩罚，惩罚等级随次数而增加|
 |[磁力搜索](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/bt)|懂的都懂|
@@ -60,8 +60,7 @@
 |[角色识别](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/what_role)|动漫以及gal游戏的角色识别|
 |[三千API](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/qian_api)|包含 抠图/上色/超分 功能|
 |[点赞](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/send_like)|给你点赞|
-|[伪人AI](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/bym_ai)|超级强力AI（引入养成系统）|
-
+|[AI](https://github.com/zhenxun-org/zhenxun_bot_plugins/tree/main/plugins/ai) | 青云客AI，还有重复说相同的话检测，与小真寻普普通通的对话吧 |
 
 
 
