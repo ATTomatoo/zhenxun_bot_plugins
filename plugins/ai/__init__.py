@@ -15,7 +15,7 @@ from .data_source import get_chat_result, hello, no_result
 
 __plugin_meta__ = PluginMetadata(
     name="AI",
-    description="屑Ai",
+    description="屑Ai,老版本的AI了，留着给懒得搞ai的人",
     usage=f"""
     与{BotConfig.self_nickname}普普通通的对话吧！
     """.strip(),
